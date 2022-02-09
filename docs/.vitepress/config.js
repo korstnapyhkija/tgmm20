@@ -7,6 +7,7 @@ const logiSidebar = [
     {text: "logi", link: "/logi/" },
     {text: "Font märgiks", link: "/logi/01_font_margiks" },
     {text: "Ruutudes märgid", link: "/logi/02_ruududjajoonis" },
+    {text: "Apple logo", link: "/logi/03_ounad" },
 ]
 
 module.exports = {
@@ -27,6 +28,7 @@ module.exports = {
             "/logi/":logiSidebar,
             "/logi/01_font_margiks/":logiSidebar,
             "/logi/02_ruududjajoonis/":logiSidebar,
+            "/logi/03_ounad/":logiSidebar,
         }
         },
       };
