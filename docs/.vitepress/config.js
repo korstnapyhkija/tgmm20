@@ -10,6 +10,7 @@ const logiSidebar = [
     {text: "Apple logo", link: "/logi/03_ounad" },
     {text: "Pildi järgi kass", link: "/logi/04_kass" },
     {text: "Pildi järgi kass", link: "/logi/05_kassII" },
+    {text: "Negatiivne ruum", link: "/logi/06_negative_space" },
 ]
 
 module.exports = {
@@ -33,6 +34,7 @@ module.exports = {
             "/logi/03_ounad/":logiSidebar,
             "/logi/04_kass/":logiSidebar,
             "/logi/05_kassII/":logiSidebar,
+            "/logi/06_negative_space/":logiSidebar,
         }
         },
       };
