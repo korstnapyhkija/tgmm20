@@ -1,1 +1,1 @@
-INDEX
+# Siit leiab minu logo tegemise protsessi ning veebi versiooni MM20 logo stiiliraamatust.

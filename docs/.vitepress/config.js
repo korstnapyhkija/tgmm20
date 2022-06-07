@@ -2,6 +2,11 @@ const primarySidebar = [
     { text: "cvi", link: "/cvi/" }, 
     {text:"Briif", link:"/cvi/brief"},
     {text:"Moodboard", link:"/cvi/moodboard"},
+    {text:"Visandid", link:"/cvi/visandid"},
+    {text:"Algsed logod", link:"/cvi/algsed"},
+    {text:"Värvi valik", link:"/cvi/varv"},
+    {text:"Kirjatüübi valik", link:"/cvi/font"},
+    {text:"Stiiliraamat", link:"/cvi/stiil"},
 ];
 const logiSidebar = [
     {text: "logi", link: "/logi/" },
@@ -11,10 +16,11 @@ const logiSidebar = [
     {text: "Pildi järgi kass", link: "/logi/04_kass" },
     {text: "Pildi järgi kass", link: "/logi/05_kassII" },
     {text: "Negatiivne ruum", link: "/logi/06_negative_space" },
+    {text: "Pildi järgi hunt", link: "/logi/07_hunt" },
 ]
 
 module.exports = {
-    title: "Minu lehekene",
+    title: "Tunnusgraafika leht",
     base: "/tgmm20/",
     themeConfig: {
         nav: [
@@ -35,6 +41,7 @@ module.exports = {
             "/logi/04_kass/":logiSidebar,
             "/logi/05_kassII/":logiSidebar,
             "/logi/06_negative_space/":logiSidebar,
+            "/logi/07_hunt/":logiSidebar,
         }
         },
       };
